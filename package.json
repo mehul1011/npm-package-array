@@ -1,0 +1,22 @@
+{
+  "name": "maxsubarraysum",
+  "version": "1.0.0",
+  "description": "returns maximum subarray sum for the given array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehul1011/npm-package-array.git"
+  },
+  "keywords": [
+    "MSS"
+  ],
+  "author": "Maestro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehul1011/npm-package-array/issues"
+  },
+  "homepage": "https://github.com/mehul1011/npm-package-array#readme"
+}
