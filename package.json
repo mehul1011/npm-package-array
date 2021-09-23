@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mehul1011/npm-package-array/issues"
   },
-  "homepage": "https://github.com/mehul1011/npm-package-array#readme"
+  "homepage": "https://github.com/mehul1011/npm-package-array#readme",
+  "dependencies": {
+    "maxsubarraysum": "^1.0.0"
+  }
 }
